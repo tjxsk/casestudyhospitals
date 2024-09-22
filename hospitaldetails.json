@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Central City Hospital",
+        "patient_count": 250,
+        "location": "Kochi"
+    },
+    {
+        "name": "AKG Hospital",
+        "patient_count": 180,
+        "location": "Kannur"
+    },
+    {
+        "name": "MIMS",
+        "patient_count": 150,
+        "location": "Kannur"
+    },
+    {
+        "name": "Baby Memorial Hospital",
+        "patient_count": 150,
+        "location": "Kozhikode"
+    }
+]
